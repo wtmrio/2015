@@ -1,8 +1,8 @@
-# DevFestSP 2014
+# Women Techmackers Rio 2015
 
 ## Como contribuir
 
-1. [Fork](https://github.com/gdg-sp/sp.devfest.com.br/fork) este repositório
+1. [Fork](https://github.com/wtmrio/2015/fork) este repositório
 2. Clone-o em sua máquina
 3. Abra um PullRequest para nosso repositório
 
