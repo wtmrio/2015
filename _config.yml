@@ -244,8 +244,8 @@ thumbnailsFolder: /img/speakers/
 teamBlockTitle: "Sobre nós"
 aboutUs: "Os serviços do Google se tornam sinônimos de coisas simples na internet. O número de inovações tecnológicas e da insústria de TI em que o Google está criando novos produtos é enorme. É difícil conhecer todas. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e compartilhar suas experiências. Mais tarde, os seguintes grupos foram chamados de Google Developer Groups. GDGs podem assumir muitas formas -- desde algumas pessoas se reunindo para assistir alguns vídeos até grande encontros com demonstrações, palestras técnicas, hackathons e conferências."
 teamOrganizers: "Organizadores"
-teamProgramCommittee: "Comitê"
-
+# teamProgramCommittee: "Comitê"
+teamThumbnailsFolder: /img/team/
 
 
 # Logistics Find Way Block

@@ -1,60 +1,103 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Bianca"
+  surname: "Rosa"
+  title: "Divulgação"
+  thumbnailUrl: BiancaRosa.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  social:
+    - {name: "google-plus", link: "http://plus.google.com/102627921271063698251/"}
+    - {name: "twitter", link: "http://www.twitter.com/__biancarosa"}
+    - {name: "github", link: "https://github.com/biancarosa"}
+    - {name: "site", link: "http://biancarosa.com.br/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Darlene"
+  surname: "Medeiros"
+  title: "Website"
+  thumbnailUrl: DarleneMedeiros.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106288375515880666063/"}
+    - {name: "github", link: "https://github.com/darlenedms"}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Dayany"
+  surname: "Espíndola"
+  title: "Patrocínio"
+  thumbnailUrl: DayanyEspindola.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/108731139294539985238/"}
+    - {name: "twitter", link: "https://twitter.com/dayanyrec"}
+    - {name: "github", link: "https://github.com/dayanyrec"}
+    - {name: "site", link: "https://medium.com/@dayanyrec"}
+-
+  id: 3
+  name: "Jonatas"
+  surname: "Emidio"
+  title: "Patrocínio"
+  thumbnailUrl: JonatasEmidio.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/103895316747089683143/"}
+    - {name: "twitter", link: "https://twitter.com/jonatasemidio"}
+    - {name: "github", link: "https://github.com/jonatasemidio"}
+    - {name: "site", link: "http://santograils.org/"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Paula"
+  surname: "Grangeiro"
+  title: "Palestras"
+  thumbnailUrl: PaulaGrangeiro.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+PaulaGrangeiro/"}
+    - {name: "twitter", link: "https://twitter.com/paulagrangeiro"}
+    - {name: "github", link: "https://github.com/pgrangeiro"}
+    - {name: "site", link: "http://www.paulagrangeiro.com.br/"}
+-
+  id: 5
+  name: "Samanta"
+  surname: "Cicilia"
+  title: "Divulgação"
+  thumbnailUrl: SamantaCicilia.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+SamantaCicilia/"}
+    - {name: "twitter", link: "https://twitter.com/samantacicilia"}
+    - {name: "github", link: "https://github.com/samycici"}
+    - {name: "site", link: "https://about.me/samantacicilia"}
+# -
+#   id: 4
+#   name: "Dmytro"
+#   surname: "Danylyk"
+#   title: "Android Program Committee"
+#   thumbnailUrl: DmytroDanylyk.jpg
+#   subTeam: true
+#   social:
+#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
+# -
+#   id: 7
+#   name: "Valentyn"
+#   surname: "Shybanov"
+#   title: "Web and Cloud Program Committee"
+#   thumbnailUrl: ValentynShybanov.jpg
+#   subTeam: true
+#   social:
+#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#     - {name: "site", link: "http://olostan.name/"}
