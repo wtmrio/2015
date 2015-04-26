@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "Women Techmackers Rio 2015"
 email: "nos@wtmrio.com.br"
 description: "Women Techmackers Rio"
-baseurl: ""
+baseurl: "/2015"
 url: "http://wtmrio.com.br"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-54291559-1"
