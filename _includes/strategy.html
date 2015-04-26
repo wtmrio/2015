@@ -1,0 +1,23 @@
+<!-- Begin Strategy Section -->
+<section id="strategy" class="strategy image-section parallax" style="background-image: url({{ site.baseurl }}/img/statistic.jpg);">
+    <div class="overlay solid-overlay"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% assign animationDelay = 0 %}
+            <h3>{{ site.strategyTitle }}</h3>
+            {% for strategy in site.strategyBlock %}
+            {% assign colWidth = 12 %}
+            <article class="row">
+                <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} text-left animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                    <h6>{{ strategy.title }}</h6>
+                    <p class="post-body">{{ strategy.text }}</a></p>
+                </div>
+            </article>
+            {% assign animationDelay = animationDelay | plus:500 %}
+            {% assign check = forloop.index | modulo:2 %}
+            {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Strategy Section
