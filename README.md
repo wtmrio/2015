@@ -1,4 +1,4 @@
-# Women Techmackers Rio 2015
+# Women Techmakers Rio 2015
 
 ## Como contribuir
 
