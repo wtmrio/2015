@@ -5,9 +5,9 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmackers Rio 2015"
+title: "Women Techmakers Rio 2015"
 email: "nos@wtmrio.com.br"
-description: "Women Techmackers Rio"
+description: "Women Techmakers Rio"
 baseurl: "/2015"
 url: "http://wtmrio.com.br"
 permalink: "/blog/:title"
@@ -15,8 +15,8 @@ googleAnalyticsTrackingId: "UA-54291559-1"
 googleAnalyticsSiteUrl: "wtmrio.com.br"
 
 # Organizer Info
-organizerName: "Women Techmackers Rio"
-organizerAlternateName: "Women Techmackers Rio"
+organizerName: "Women Techmakers Rio"
+organizerAlternateName: "Women Techmakers Rio"
 organizerDescription: "Comunidades abertas de geeks voluntários que criam projetos incríveis e compartilham de forma apaixonada suas experiências com as tecnologias do Google."
 organizerEmail: "nos@wtmrio.com.br"
 organizerLogo: "/img/seo/organizer-logo.png"
