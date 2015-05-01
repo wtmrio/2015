@@ -5,24 +5,60 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-
-
+    
+    
     <url>
-        <loc>http://wtmrio.com.br/</loc>
+        <loc>http://wtmrio.com.br/2015/blog/</loc>
     </url>
-
-
-
+    
+    
+    
     <url>
-        <loc>http://wtmrio.com.br/logistics/</loc>
+        <loc>http://wtmrio.com.br/2015/cod/</loc>
     </url>
-
-
-
+    
+    
+    
     <url>
-        <loc>http://wtmrio.com.br/team/</loc>
+        <loc>http://wtmrio.com.br/2015/</loc>
     </url>
+    
+    
+    
+    <url>
+        <loc>http://wtmrio.com.br/2015/logistics/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://wtmrio.com.br/2015/schedule/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://wtmrio.com.br/2015/speakers/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://wtmrio.com.br/2015/team/</loc>
+    </url>
+    
+    
 
-
+    
+    <url>
+        <loc>http://wtmrio.com.br/2015/blog/call-for-papers</loc>
+    </url>
+    
+    <url>
+        <loc>http://wtmrio.com.br/2015/blog/hello-world</loc>
+    </url>
+    
 
 </urlset>
