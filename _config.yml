@@ -7,7 +7,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 # Site Settings
 title: "Women Techmakers Rio 2015"
 email: "nos@wtmrio.com.br"
-description: "Women Techmackers Rio"
+description: "Women Techmakers Rio"
 baseurl: ""
 url: "http://wtmrio.com.br"
 permalink: "/blog/:title"
