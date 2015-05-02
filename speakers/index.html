@@ -13,18 +13,18 @@
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@WTMRio">
-    <meta name="twitter:title" content="Women Techmakers Rio 2015">
+    <meta name="twitter:title" content="Palestrantes">
     <meta name="twitter:description" content="Women Techmakers Rio">
     <meta name="twitter:image:src" content="http://wtmrio.com.br/img/seo/sharing-twitter.png">
     <!-- Social: Facebook / Open Graph -->
-    <meta property="og:title" content="Women Techmakers Rio 2015" />
+    <meta property="og:title" content="Palestrantes" />
     <meta property="og:site_name" content="Women Techmakers Rio 2015" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://wtmrio.com.br" />
     <meta property="og:image" content="http://wtmrio.com.br/img/seo/sharing-facebook.png" />
     <meta property="og:description" content="Women Techmakers Rio" />
 
-    <title>Women Techmakers Rio 2015 &bull; Women Techmakers Rio 2015</title>
+    <title>Palestrantes &bull; Women Techmakers Rio 2015</title>
     <link rel="shortcut icon" href="/img/favicons/favicon.ico">
     <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
@@ -64,7 +64,7 @@
         <div class="st-pusher">
             <div class="st-content">
 
-                 <!-- Begin Top Section -->
+                <!-- Begin Top Section -->
 <section id="top-section" class="top-section image-section">
     <div class="overlay gradient-overlay"></div>
 
@@ -88,7 +88,7 @@
             </li>
 
             <li>
-                <a class="current"  href=" /logistics/ ">Logística</a>
+                <a class=""  href=" /logistics/ ">Logística</a>
             </li>
 
         </ul>
@@ -101,79 +101,25 @@
 
     <div class="jumbotron text-left">
         <div class="animated hiding" data-animation="fadeInLeft" data-delay="500">
-            <h1>Women Techmakers Rio 2015</h1>
+            <h1>Palestrantes</h1>
         </div>
     </div>
 </section>
 <!-- End Top Section -->
 
- <!-- Begin Find Way-->
-<section id="find-way" class="find-way">
-    <div id="canvas-map" class="canvas-map"></div>
-    <div class="content-wrapper text-left">
-        <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">Como chegar aqui</h3>
-        <div class="map-card col-lg-3 col-md-4 col-sm-6 col-xs-12">
-            <div class="map-search">
-                <input type="text" id="location-input" class="location-input" name="location-input" data-input-value="Sua localização" placeholder="Sua localização" autocomplete="off">
-                <svg id="direction-locate" class="icon icon-geolocation" viewBox="0 0 30 32">
-                    <use xlink:href="/img/sprites/sprites.svg#icon-geolocation"></use>
-                </svg>
-            </div>
-            <div class="location-result">
-                <span id="result-name" class="result-name"></span>
-                <span>para o WTM</span>
-                <svg id="direction-cancel" class="icon icon-cross" viewBox="0 0 30 32">
-                    <use xlink:href="/img/sprites/sprites.svg#icon-cross"></use>
-                </svg>
-            </div>
-        </div>
-        <div class="map-card location-details col-lg-3 col-md-4 col-sm-6 col-xs-12">
-            <ul>
-                <li>
-                    <svg class="icon icon-flag" viewBox="0 0 30 32">
-                        <use xlink:href="/img/sprites/sprites.svg#icon-flag"></use>
-                    </svg>
-                    <span>Distância</span>
-                    <span id="distance" class="detailed-result pull-right"></span>
-                </li>
-                <li>
-                    <div id="mode">
-                        <svg id="mode-icon" class="icon icon-mode" viewBox="0 0 30 32">
-                            <use xlink:href="/img/sprites/sprites.svg#icon-flight"></use>
-                        </svg>
-                        <select id="mode-select">
-                            <option value="DRIVING">CARRO</option>
-                            <option value="WALKING">ANDANDO</option>
-                            <option value="BICYCLING">BICICLETA</option>
-                            <option value="TRANSIT">ÔNIBUS</option>
-                        </select>
-                        <span id="estimateTime" class="detailed-result pull-right"></span>
-                    </div>
-                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">Find Flight</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</section>
-<!-- End Find Way -->
 
- <!-- Begin Direction Details-->
-<section id="direction-details" class="direction-details">
+    <!-- Begin Speakers List 2-->
+<section id="speakers">
     <div class="content-wrapper">
-        <section class="image-section standart-height" style="background-image: url('/img/direction-details.jpg');">
-            <h3></h3>
-        </section>
-        <div class="row">
-            <div class="col-lg-10 col-lg-offset-1 text-left">
+        <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
 
-
-
-
-            </div>
         </div>
     </div>
 </section>
-<!-- End Direction Details -->
+<!-- End Speakers List 2 -->
+
+
+
 
                 <!-- Begin Footer -->
 <footer id="footer" class="footer">
@@ -267,6 +213,13 @@
     </div>
 
 
+    	<!-- Begin Speakers Modals -->
+<div class="modals" class="modals">
+
+</div>
+<!-- End Speakers Modals -->
+
+
 
 
 
@@ -293,16 +246,8 @@
     </script>
     <script src="/js/default.js"></script>
 
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
-
     <script>
         Waves.displayEffect();
-
-            var googleMaps = 'logistics',
-                eventPlace = new google.maps.LatLng(-22.905901,-43.17787),
-                centerMap = new google.maps.LatLng(-22.905901,-43.17787),
-                mobileCenterMap = new google.maps.LatLng(-22.905901,-43.17787),
-                icon = '/img/svg/map-marker.svg';
 
     </script>
     <script src="/js/scripts.min.js"></script>
