@@ -2,20 +2,21 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <!-- <h3>{{ site.organizersTitle }}</h3>
-            {% for organizer in site.data.organizers %}
-            <h5>{{ organizer.group }}</h5>
-            <ul class="list-inline">
-                {% for element in organizer.elements %}
-                <li>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
-                </li>
+            {% if site.organizersTitle %}
+                <h3>{{ site.organizersTitle }}</h3>
+                {% for organizer in site.data.organizers %}
+                <h5>{{ organizer.group }}</h5>
+                <ul class="list-inline">
+                    {% for element in organizer.elements %}
+                    <li>
+                        <a href="{{ element.link }}" target="_blank">
+                            <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
                 {% endfor %}
-            </ul>
-            {% endfor %} -->
-
+            {% endif %}
 
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
@@ -30,9 +31,11 @@
                 {% endfor %}
             </ul>
             {% endfor %}
-            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
-            <a href="{{ site.c4sponsorsUrlEn | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButtonEn }}</a>
+            {% if site.c4sponsorsUrl %}
+                <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+                <a href="{{ site.c4sponsorsUrlEn | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButtonEn }}</a>
+            {% endif %}
         </div>
-    </div> 
+    </div>
 </section>
 <!-- End Sponsors Section -->

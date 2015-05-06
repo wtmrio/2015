@@ -31,8 +31,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/11SMKmGfSmkQ0hBA06g-WeZnGNcU5-Sy7IRA9FM_bbP8/viewform"
-c4sponsorsUrl: "/assets/devfest-midiakit-final.pdf"
-c4sponsorsUrlEn: "/assets/devfest-midiakit-final-en.pdf"
+# c4sponsorsUrl: "/assets/devfest-midiakit-final.pdf"
+# c4sponsorsUrlEn: "/assets/devfest-midiakit-final-en.pdf"
 
 
 # Navigation
