@@ -3545,31 +3545,38 @@ nav li a.current, nav li a:hover {
 }
 /* line 50, ../_sass/partials/_hero.scss */
 .top-section-hero .places .arcos-da-lapa {
-  opacity: 1;
   background: #984e05;
 }
-/* line 54, ../_sass/partials/_hero.scss */
+/* line 52, ../_sass/partials/_hero.scss */
+.top-section-hero .places .arcos-da-lapa .imgs {
+  width: 702px;
+}
+/* line 56, ../_sass/partials/_hero.scss */
 .top-section-hero .places .pao-de-acucar {
   background: #496f1a;
 }
-/* line 56, ../_sass/partials/_hero.scss */
+/* line 58, ../_sass/partials/_hero.scss */
 .top-section-hero .places .pao-de-acucar .imgs {
-  opacity: 0.8;
-  max-width: 400px;
+  max-width: 1003px;
 }
-/* line 61, ../_sass/partials/_hero.scss */
+/* line 62, ../_sass/partials/_hero.scss */
 .top-section-hero .places .copacabana {
   background: #8e1e12;
 }
 /* line 64, ../_sass/partials/_hero.scss */
+.top-section-hero .places .copacabana .imgs {
+  width: 534px;
+}
+/* line 68, ../_sass/partials/_hero.scss */
 .top-section-hero .places .cristo-redentor {
+  opacity: 1;
   background: #104a9c;
 }
-/* line 66, ../_sass/partials/_hero.scss */
-.top-section-hero .places .cristo-redentor .imgs {
-  max-width: 800px;
-}
 /* line 71, ../_sass/partials/_hero.scss */
+.top-section-hero .places .cristo-redentor .imgs {
+  width: 680px;
+}
+/* line 76, ../_sass/partials/_hero.scss */
 .top-section-hero .bounce {
   animation: bounce 1s backwards 1s;
   -webkit-animation: bounce 1s backwards 1s;
@@ -3654,11 +3661,11 @@ nav li a.current, nav li a:hover {
     bottom: 0000%;
   }
 }
-/* line 86, ../_sass/partials/_hero.scss */
+/* line 91, ../_sass/partials/_hero.scss */
 .typeout-fallback {
   display: none;
 }
-/* line 92, ../_sass/partials/_hero.scss */
+/* line 97, ../_sass/partials/_hero.scss */
 .explore {
   margin-left: -16px;
   position: absolute;
@@ -3667,7 +3674,7 @@ nav li a.current, nav li a:hover {
   -webkit-animation: callToAction 3.5s linear 0s infinite;
           animation: callToAction 3.5s linear 0s infinite;
 }
-/* line 104, ../_sass/partials/_hero.scss */
+/* line 109, ../_sass/partials/_hero.scss */
 .icon-arrow-down {
   width: 32px;
   height: 32px;
@@ -6377,12 +6384,12 @@ nav li a.current, nav li a:hover {
     padding: 0;
   }
 
-  /* line 86, ../_sass/partials/_hero.scss */
+  /* line 91, ../_sass/partials/_hero.scss */
   .typeout-fallback {
     display: inline-block;
   }
 
-  /* line 92, ../_sass/partials/_hero.scss */
+  /* line 97, ../_sass/partials/_hero.scss */
   .explore {
     margin-left: -12.5px;
     bottom: 30px;
@@ -6390,7 +6397,7 @@ nav li a.current, nav li a:hover {
             animation: none;
   }
 
-  /* line 104, ../_sass/partials/_hero.scss */
+  /* line 109, ../_sass/partials/_hero.scss */
   .icon-arrow-down {
     width: 24px;
     height: 24px;

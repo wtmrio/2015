@@ -48,23 +48,28 @@
             opacity: 1;
         }
         .arcos-da-lapa {
-            opacity: 1;
             background: #984e05;
+            .imgs {
+                width: 702px;
+            }
         }
         .pao-de-acucar {
             background: #496f1a;
             .imgs {
-                opacity: 0.8;
-                max-width: 400px;
+                max-width: 1003px;
             }
         }
         .copacabana {
             background: #8e1e12;
+            .imgs {
+                width: 534px;
+            }
         }
         .cristo-redentor {
+            opacity: 1;
             background: #104a9c;
             .imgs {
-                max-width: 800px;
+                width: 680px;
             }
         }
     }
