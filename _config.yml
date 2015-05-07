@@ -115,17 +115,17 @@ rockstarSpeakersCount: 0
 locationBlockTitle: "Local"
 eventLocationName: "Ideais Tecnologia"
 eventLocationLink: "http://www.ideais.com.br/"
-eventStreetAddress: "Rua da Assembléia, 98 - Centro"
+eventStreetAddress: "Rua da Quitanda, 86 - 9º andar - Centro"
 eventAddressLocality: "Rio de Janeiro"
 eventAddressLocalityRegion: "RJ"
-eventPostalCode: "20011-000"
+eventPostalCode: "20091-005"
 eventAddressCountry: "Brasil"
 eventStartTime: "2015-06-27T8:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-06-27T18:00"
-eventPlaceCoordinates: "-22.905901,-43.17787"
-mapCenterCoordinates: "-22.905901,-43.17787"
-mapMobileCenterCoordinates: "-22.905901,-43.17787"
+eventPlaceCoordinates: "-22.9027329,-43.1773005"
+mapCenterCoordinates: "-22.9027329,-43.1773005"
+mapMobileCenterCoordinates: "-22.9027329,-43.1773005"
 
 
 
@@ -250,8 +250,8 @@ teamThumbnailsFolder: /img/team/
 
 # Logistics Find Way Block
 findWayTitle: "Como chegar aqui"
-logisticsMapCenterCoordinates: "-22.905901,-43.17787"
-logisticsMapMobileCenterCoordinates: "-22.905901,-43.17787"
+logisticsMapCenterCoordinates: "-22.9027329,-43.1773005"
+logisticsMapMobileCenterCoordinates: "-22.9027329,-43.1773005"
 
 findWayDistance: "Distância"
 findWayToEvent: "para o WTM"
