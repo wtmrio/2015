@@ -1,4 +1,4 @@
-var places = ['cristo-redentor', 'arcos-da-lapa', 'copacabana', 'pao-de-acucar'];
+var places = ['estacao-da-luz', 'catedral-da-se', 'masp', 'ponte-estaiada'];
 var index = 1;
 
 var loop = setInterval(function(){
