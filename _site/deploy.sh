@@ -5,6 +5,5 @@ jekyll build
 cp  CNAME _site
 git add -A _site/
 git commit -m "New release"
-git pull origin gh-pages
 git push
 git subtree push --prefix _site origin gh-pages
