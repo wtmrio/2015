@@ -30,7 +30,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/11SMKmGfSmkQ0hBA06g-WeZnGNcU5-Sy7IRA9FM_bbP8/viewform"
+# c4pUrl: "https://docs.google.com/forms/d/11SMKmGfSmkQ0hBA06g-WeZnGNcU5-Sy7IRA9FM_bbP8/viewform"
 # c4sponsorsUrl: "/assets/devfest-midiakit-final.pdf"
 # c4sponsorsUrlEn: "/assets/devfest-midiakit-final-en.pdf"
 
@@ -61,8 +61,8 @@ navigationLinks:
 heroTitle: "Women Techmakers <typeout> 2015"
 eventDate: "18 de Julho de 2015"
 typeoutTextValues: '"Rio", "Carioca", "RJ", "Rio de Janeiro"'
-heroButtons:
-- {url: "https://docs.google.com/forms/d/11SMKmGfSmkQ0hBA06g-WeZnGNcU5-Sy7IRA9FM_bbP8/viewform", text: "Participe"}
+# heroButtons:
+# - {url: "https://docs.google.com/forms/d/11SMKmGfSmkQ0hBA06g-WeZnGNcU5-Sy7IRA9FM_bbP8/viewform", text: "Participe"}
  # - {url: "http://wtmrio.eventbrite.com/?aff=site", text: "Faça sua inscrição!"}
 
 
@@ -91,9 +91,9 @@ aboutBlock:
 # Strategy Block
 strategyTitle: "No que acreditamos"
 strategyBlock:
-  - {title: "Missão", text: "Chamar atenção para questões de igualdade de gênero e diversidade para as áreas do STEM (CTEM em português, acrônimo para ciência, tecnologia, engenharia e matemática) através do poder do exemplo. Criar um ambiente aberto onde os desafios podem ser entendidos e superados. <br /><br />Nossas ações seguirão essa missão. Isto é o que nossos eventos devem oferecer. E é assim que nós julgaremos nossas atividades para ver se elas foram bem sucedidas ou não. <br /><br />Não é só sobre o número de participantes, embora um alcance maior seja benéfico. É sobre transmitir a mensagem certa para as pessoas certas, sobre fortalecimento dos aliados e desenvolvimento de estratégias de melhoria. <br /><br />Acreditamos que a mudança deve partir de todos, independente do gênero. Nossos eventos devem continuar abertos aos participantes de qualquer gênero e pessoas sem gênero."}
-  - {title: "Valores", text: "Respeito, Confiança, Justiça, Abraçar Diferenças, Compartilhar, Apoiar, Aperfeiçoar <br /><br />Nossos valores são o que acreditamos que todos deveriam se basear. Eles também são o que usamos como refência de nossas ações. Nós queremos que todos sejam respeitados como pessoas, tendo confiança e sendo tratados de forma justa. Queremos igualdade de valor enquanto entendemos as diferenças - acreditamos que o uso de diferentes formas de pensar unidas nos proporciona uma qualidade melhor. Nós queremos que informações sejam compartilhadas e colegas apoiados, tudo com o propósito da melhoria contínua."}
-  - {title: "Visão", text: "Igualdade e diversidade nas áreas do STEM (CTEM em português, acrônimo para ciência, tecnologia, engenharia e matemática) independe do gênero. <br/><br/>Este é o mundo que sonhamos. Um mundo onde mulheres não têm quer dar 120% para serem levadas à sério. Um mundo onde homens e mulheres trabalham juntos explorando a ciência, desenvolvendo tecnologia, construindo a engenharia e criando uma base matemática. Um mundo onde a escolha de uma área específica de estudo não é uma questão de gênero. <br/><br/>Muitas vezes podemos falar sobre homens e mulheres mas estamos cientes sobre a grande variação existente, as visões específicas de pessoas cis- e transgênero, os aspectos dos não-binários e das pessoas sem gênero. A escolha de carreira ou estudo no STEM deve ser independente da identidade de gênero."}
+  - {title: "Missão", text: "Chamar atenção para questões de igualdade de gênero e diversidade para as áreas do STEM (CTEM em português, acrônimo para ciência, tecnologia, engenharia e matemática) através do poder do exemplo. Criar um ambiente aberto onde os desafios podem ser entendidos e superados. <br /><br />Nossas ações seguirão essa missão, isto é o que nossos eventos devem oferecer e é assim que nós julgaremos nossas atividades para ver se elas foram bem sucedidas ou não. <br /><br />Não é só sobre o número de participantes, embora um alcance maior seja benéfico, é sobre transmitir a mensagem certa para as pessoas certas, sobre fortalecimento dos aliados e desenvolvimento de estratégias de melhoria. <br /><br />Acreditamos que a mudança deve partir de todos, independente do gênero. Nossos eventos devem continuar abertos aos participantes de qualquer gênero e pessoas sem gênero."}
+  - {title: "Valores", text: "Respeito, Confiança, Justiça, Abraçar Diferenças, Compartilhar, Apoiar, Aperfeiçoar <br /><br />Nossos valores são o que acreditamos que todos deveriam se basear. Eles também são o que usamos como referência de nossas ações. Nós queremos que todos sejam respeitados como pessoas, tendo confiança e sendo tratados de forma justa, queremos igualdade de valor enquanto entendemos as diferenças - acreditamos que o uso de diferentes formas de pensar unidas nos proporcionam uma qualidade melhor. Nós queremos que informações sejam compartilhadas e colegas apoiados, tudo com o propósito da melhoria contínua."}
+  - {title: "Visão", text: "Igualdade e diversidade nas áreas do STEM independe do gênero. <br/><br/>Este é o mundo que sonhamos, um mundo onde mulheres não têm que dar 120% para serem levadas à sério, um mundo onde homens e mulheres trabalham juntos explorando a ciência, desenvolvendo tecnologia, construindo a engenharia e criando uma base matemática, um mundo onde a escolha de uma área específica de estudo não é uma questão de gênero. <br/><br/>Muitas vezes podemos falar sobre homens e mulheres mas estamos cientes sobre a grande variação existente, as visões específicas de pessoas cis- e transgênero, os aspectos dos não-binários e das pessoas sem gênero. A escolha de carreira ou estudo no STEM deve ser independente da identidade de gênero."}
 
 
 
