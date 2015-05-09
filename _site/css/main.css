@@ -3569,14 +3569,13 @@ nav li a.current, nav li a:hover {
 }
 /* line 68, ../_sass/partials/_hero.scss */
 .top-section-hero .places .cristo-redentor {
-  opacity: 1;
   background: #104a9c;
 }
-/* line 71, ../_sass/partials/_hero.scss */
+/* line 70, ../_sass/partials/_hero.scss */
 .top-section-hero .places .cristo-redentor .imgs {
   width: 680px;
 }
-/* line 76, ../_sass/partials/_hero.scss */
+/* line 75, ../_sass/partials/_hero.scss */
 .top-section-hero .bounce {
   animation: bounce 1s backwards 1s;
   -webkit-animation: bounce 1s backwards 1s;
@@ -3661,11 +3660,11 @@ nav li a.current, nav li a:hover {
     bottom: 0000%;
   }
 }
-/* line 91, ../_sass/partials/_hero.scss */
+/* line 90, ../_sass/partials/_hero.scss */
 .typeout-fallback {
   display: none;
 }
-/* line 97, ../_sass/partials/_hero.scss */
+/* line 96, ../_sass/partials/_hero.scss */
 .explore {
   margin-left: -16px;
   position: absolute;
@@ -3674,7 +3673,7 @@ nav li a.current, nav li a:hover {
   -webkit-animation: callToAction 3.5s linear 0s infinite;
           animation: callToAction 3.5s linear 0s infinite;
 }
-/* line 109, ../_sass/partials/_hero.scss */
+/* line 108, ../_sass/partials/_hero.scss */
 .icon-arrow-down {
   width: 32px;
   height: 32px;
@@ -6384,12 +6383,12 @@ nav li a.current, nav li a:hover {
     padding: 0;
   }
 
-  /* line 91, ../_sass/partials/_hero.scss */
+  /* line 90, ../_sass/partials/_hero.scss */
   .typeout-fallback {
     display: inline-block;
   }
 
-  /* line 97, ../_sass/partials/_hero.scss */
+  /* line 96, ../_sass/partials/_hero.scss */
   .explore {
     margin-left: -12.5px;
     bottom: 30px;
@@ -6397,7 +6396,7 @@ nav li a.current, nav li a:hover {
             animation: none;
   }
 
-  /* line 109, ../_sass/partials/_hero.scss */
+  /* line 108, ../_sass/partials/_hero.scss */
   .icon-arrow-down {
     width: 24px;
     height: 24px;
