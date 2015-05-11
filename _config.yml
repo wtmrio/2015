@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "Women Techmakers Rio 2015"
-email: "nos@wtmrio.com.br"
+email: "wtmrio@gmail.com"
 description: "Women Techmakers Rio"
 baseurl: ""
 url: "http://wtmrio.com.br"
@@ -18,7 +18,7 @@ googleAnalyticsSiteUrl: "wtmrio.com.br"
 organizerName: "Women Techmakers Rio"
 organizerAlternateName: "Women Techmakers Rio"
 organizerDescription: "Comunidades abertas de geeks voluntários que criam projetos incríveis e compartilham de forma apaixonada suas experiências com as tecnologias do Google."
-organizerEmail: "nos@wtmrio.com.br"
+organizerEmail: "wtmrio@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://wtmrio.com.br/"
 
@@ -220,7 +220,7 @@ footerBlocks:
  -
   title: "Contatos"
   links:
-   - {link: "mailto:nos@wtmrio.com.br", text: "nos@wtmrio.com.br"}
+   - {link: "mailto:wtmrio@gmail.com", text: "wtmrio@gmail.com"}
 #   - {link: "tel:+5511983370955", text: "+55 11 983-370-955"}
 
 
