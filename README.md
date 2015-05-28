@@ -17,6 +17,12 @@ O site ficará disponível em http://127.0.0.1:4000/
 
 **NOTE:** Todas as alterações de HTML e arquivos de dados serão automaticamente atualizados, mas será necessário reiniciar o servidor caso altere o arquivo ```_config.yml```.
 
+Caso altere o sass e precise regerar o css, basta executar na pasta que possui o config.rb:
+
+```bash
+    compass compile -e production --force
+```
+
 ## Publicando no gh-pages
 
 Dentro do branch master:
