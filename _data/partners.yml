@@ -2,6 +2,11 @@
   group: "The Force"
   elements:
     - {name: "Google", description: "Google Developers", link: "https://developers.google.com", imageUrl: "google_developers.svg", class: "big"}
+
+-
+  group: "Parceiros"
+  elements:
+    - {name: "GDG Rio de Janeiro", description: "GDG Rio de Janeiro", link: "https://plus.google.com/104464728601797437216", imageUrl: "GDG300.png", class: "small"}
 # -
 #   group: "Jedi Master"
 #   elements:
