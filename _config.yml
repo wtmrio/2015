@@ -113,7 +113,7 @@ rockstarSpeakersCount: 0
 
 # Location Block
 locationBlockTitle: "Local"
-eventLocationName: "Ideais Tecnologia"
+eventLocationName: ""
 eventLocationLink: "http://www.ideais.com.br/"
 eventStreetAddress: "Rua da Quitanda, 86 - 9º andar - Centro"
 eventAddressLocality: "Rio de Janeiro"
