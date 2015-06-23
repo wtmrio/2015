@@ -4,6 +4,11 @@
     - {name: "Google", description: "Google Developers", link: "https://developers.google.com", imageUrl: "google_developers.svg", class: "big"}
 
 -
+  group: "Jedi Knight"
+  elements:
+    - {name: "Mídia 3", description: "Mídia 3 Tecnologia e Criação", link: "http://www.midia3.com.br/home/", imageUrl: "midia3300.png"}
+
+-
   group: "Padawan"
   elements:
     - {name: "DTM", description: "DTM Tecnologia da Informação", link: "http://www.dtmtec.com.br/", imageUrl: "dtm300.png", class: "small"}
