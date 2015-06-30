@@ -94,6 +94,12 @@
     }
 
     - {
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [555]
+    }
+
+    - {
         startTime: "13:00",
         endTime: "18:00",
         sessionIds: [010, 009]
