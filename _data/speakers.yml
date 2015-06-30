@@ -24,7 +24,7 @@
   ribbon:
   social:
     - {name: "site", link: "rtstreinamentos.com.br"}
-    - {name: "blog", link: "blog.samantacicilia.com.br"}
+    - {name: "site", link: "blog.samantacicilia.com.br"}
     - {name: "facebook", link: "https://www.facebook.com/samanta.cicilia"}
     - {name: "twitter", link: "https://twitter.com/samantacicilia"}
     - {name: "linkedin", link: "https://br.linkedin.com/pub/samanta-cicilia/30/660/930"}
@@ -96,8 +96,6 @@
   bio: ""
   thumbnailUrl: annacruz.jpg
   rockstar: false
-  social:
-    - { name: "google-plus", link: "https://plus.google.com/+LuizGustavoMartins"}
 
 -
   id: 8
@@ -108,8 +106,6 @@
   bio: ""
   thumbnailUrl: esterlima.jpg
   rockstar: false
-  social:
-    - { name: "facebook", link: "https://www.facebook.com/gabriel.bettinivicente"}
 
 # -
 #  id: 9
