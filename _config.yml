@@ -39,8 +39,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Agenda"}
- # - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Time"}
  - {permalink: "/logistics/", text: "Logística"}
  # - {link: "https://developers.google.com", text: "Desenvolvedores"}
