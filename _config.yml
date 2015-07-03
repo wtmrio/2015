@@ -46,7 +46,7 @@ navigationLinks:
  # - {link: "https://developers.google.com", text: "Desenvolvedores"}
 
  # bottomNavigationLinks:
- # - {link: "http://wtmrio.eventbrite.com/?aff=site", text: "Inscreva-se"}
+ - {link: "http://www.eventick.com.br/wtmrio", text: "Inscreva-se"}
  # - {link: "https://docs.google.com/forms/d/1egw-Kjo86PivWiu6yUwUW0tyY9jkNTiwU3nFzWK24Fk/viewform", text: "Seja um palestrante"}
  # - {link: "https://docs.google.com/forms/d/1dVn4WmqAFiQm-4KKHMoUH5UgX-SWaWdLSATexr1lMyQ/viewform", text: "Seja um voluntário"}
  # rightNavigationButtons:
@@ -161,20 +161,20 @@ partnersC4sponsorsButtonEn: "Become a sponsor"
 
 
 # Buy Tickets Block
-# ticketsTitle: "Inscreva-se"
+ticketsTitle: "Inscreva-se"
 
-# ticketsOffers:
-#  -
-#   name: "Believe in the Force"
-#   price: "105"
-#   priceCurrency: "R$"
-#   buyButtonLink: "http://wtmrio.eventbrite.com/?aff=site"
-#   buyButtonText: "Comprar"
-#   # additionalInfo: "Preço válido até 15/10/2014"
-#   validFrom: "2014-10-01T00:00"
-#   validThrough: "2014-10-15T23:59"
-#   soldOut: true
-#   soldOutText: "Esgotado"
+ticketsOffers:
+-
+ name: "Believe in the Force"
+ price: "15"
+ priceCurrency: "R$"
+ buyButtonLink: "http://www.eventick.com.br/wtmrio"
+ buyButtonText: "Comprar"
+ # additionalInfo: "Preço válido até 15/10/2014"
+ validFrom: "2015-07-03T00:00"
+ validThrough: "2015-07-18T23:59"
+ soldOut: false
+ soldOutText: "Esgotado"
 #  -
 #   name: "Become a Jedi"
 #   price: "120"
