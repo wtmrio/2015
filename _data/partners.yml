@@ -18,6 +18,12 @@
   group: "Parceiros"
   elements:
     - {name: "GDG Rio de Janeiro", description: "GDG Rio de Janeiro", link: "https://plus.google.com/104464728601797437216", imageUrl: "GDG300.png", class: "small"}
+
+-
+  group: "Apoiadores"
+  elements:
+    - {name: "HE:Labs", description: "HE:Labs", link: "http://helabs.com/pt/", imageUrl: "helabs.png", class: "small"}
+
 # -
 #   group: "Jedi Master"
 #   elements:
@@ -44,6 +50,3 @@
 #     - {name: "Festagram", description: "Festagram", link: "http://www.festagram.com.br/", imageUrl: "apoio_festagram.svg", class: "small"}
 #     - {name: "Novatec", description: "Novatec", link: "http://www.novatec.com.br/", imageUrl: "apoio_novatec.svg", class: "small"}
 #     - {name: "Caelum", description: "Caelum", link: "http://www.caelum.com.br/", imageUrl: "apoio_caelum.svg", class: "small"}
-
-
-
