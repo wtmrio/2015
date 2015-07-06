@@ -103,9 +103,13 @@
   surname: "Lima"
   company: ""
   title: ""
-  bio: ""
+  bio: "Agilidade, Resiliência e Aprendizagem Emergente são os 3 ingredientes que melhor definem meu trabalho junto de profissionais e organizações que buscam se manter no mercado inovando e criando produtos, processos ou serviços de qualidade. Ester Lima de Campos é Mestre em Engenharia de Sistemas de Computação pela COPPE/UFRJ, graduada em Engenharia Eletrônica e Computação pela UFRJ."
   thumbnailUrl: esterlima.jpg
   rockstar: false
+  social:
+    - {name: "site", link: "http://esterdecampos.com/"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/esterlimadecampos"}
+    - {name: "twitter", link: "https://twitter.com/esterdecampos"}
 
 # -
 #  id: 9
