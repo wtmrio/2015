@@ -111,15 +111,18 @@
     - {name: "linkedin", link: "https://br.linkedin.com/in/esterlimadecampos"}
     - {name: "twitter", link: "https://twitter.com/esterdecampos"}
 
-# -
-#  id: 9
-#  name: "Herbert"
-#  surname: "Fischer"
-#  company: ""
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: herbertfischer.jpg
-#  rockstar: false
+-
+ id: 9
+ name: "Luciano"
+ surname: "Ratamero"
+ company: "EloGroup"
+ title: "Front-end/Python Developer"
+ bio: "Luciano Ratamero é um especialista em generalidades. Formado em jornalismo, se tornou desenvolvedor front-end e Python/Django por pura vontade de aprender e trabalha com programação há 4 anos. Gosta de gatos e distribuições linux obscuras."
+ thumbnailUrl: lucianoratamero.jpg
+ rockstar: false
+ social:
+   - {name: "facebook", link: "https://www.facebook.com/lucianoratamero"}
+   - {name: "twitter", link: "https://twitter.com/lucianoratamero"}
 
 -
   id: 10

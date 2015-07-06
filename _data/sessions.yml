@@ -89,8 +89,8 @@
 
 -
   id: 009
-  title: "Go"
-  description: ""
+  title: "Front-end: do básico ao layout responsivo"
+  description: "Nesse workshop, cobriremos o básico das ferramentas de front-end: html, css e um pouco de javascript. O objetivo é dar para os iniciantes recursos para fazer um site simples usando as ferramentas mais comuns do mercado, para que saiamos preparados para pesquisar e brincar com front-end por conta própria :)"
   speakers: [9]
 #language: pt-br
 
