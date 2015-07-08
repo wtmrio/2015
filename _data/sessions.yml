@@ -100,3 +100,10 @@
   description: ""
   speakers: [10]
 #language: pt-br
+
+-
+  id: 011
+  title: "Gamificação: a solução para todos os problemas, TODOS mesmo"
+  description: "Engajamento é uma daquelas palavras que é repetida várias vezes quando um produto ou serviço passa por dificuldades ou quando precisa ir para outro nível. O problema é pensar em como engajar um público-alvo. Nesse workshop discutiremos como algumas teorias e design de jogos aliadas com psicologia comportamental, análise de dados, redes sociais e princípios de programas de fidelidade. E já deixo dito: infelizmente não teremos tempo de jogar Skyrim. ): ou teremos? (:"
+  speakers: [11]
+#language: pt-br

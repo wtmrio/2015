@@ -128,8 +128,29 @@
   id: 10
   name: "Hugo Leonardo"
   surname: "Silva"
-  company: ""
-  title: ""
-  bio: ""
+  company: "Holis"
+  title: "Web Developer"
+  bio: "Desenvolvedor de software com experiência em soluções Web e integrações entre sistemas. Além de grande interesse em ferramentas de provisionamento de servidores como Chef, Puppet e Ansible."
   thumbnailUrl: hugoleonardo.jpg
   rockstar: false
+  social:
+    - {name: "site", link: "http://blog.hugoleonardocs.com/"}
+    - {name: "facebook", link: "https://www.facebook.com/hugoleodev"}
+    - {name: "twitter", link: "https://twitter.com/hugoleodev"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/hugoleodev"}
+    - {name: "github", link: "https://github.com/hugoleodev"}
+
+-
+  id: 11
+  name: "Diego"
+  surname: "Martins"
+  company: "Infoglobo"
+  title: "Desenvolvedor Web"
+  bio: "Sou bacharel em Computação e tenho MBA em Marketing Estratégico - ambos pela formidável Universidade Federal de Uberlândia. Trabalho com programação (Java, HTML, js, etc.) há 10 anos e aprendi que é preciso achar a alegria nos bugs da vida. Estou me especializando em gamificação e data science em cursos online na udemy/coursera."
+  thumbnailUrl: diegomartins.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/diego.martins7"}
+    - {name: "twitter", link: "https://twitter.com/diegodondiego"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/diegormartins"}
+    - {name: "github", link: "https://github.com/diegodondiego"}
