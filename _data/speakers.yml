@@ -93,9 +93,13 @@
   surname: "Cruz"
   company: ""
   title: ""
-  bio: ""
+  bio: "Também conhecida como yuizinha nas redes sociais fez tecnologia da informação na UniverCidade, quase terminou um mestrado em redes na Unirio, mas no fim das contas trabalha com programação. Geek, é interessada em tudo que rodeia o universo nerd."
   thumbnailUrl: annacruz.jpg
   rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/annayuicruz"}
+    - {name: "twitter", link: "https://twitter.com/yuizinha"}
+    - {name: "google-plus", link: "https://plus.google.com/+AnnaCruzYui"}
 
 -
   id: 8
