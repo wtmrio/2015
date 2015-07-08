@@ -17,6 +17,8 @@
 -
   group: "Parceiros"
   elements:
+    - {name: "RTS Treinamentos", description: "RTS Treinamentos", link: "http://rtstreinamentos.com.br/", imageUrl: "rts_treinamentos.png", class: "small"}
+    - {name: "Editoria Novatec", description: "Editoria Novatec", link: "http://novatec.com.br/", imageUrl: "novatec.png", class: "small"}
     - {name: "GDG Rio de Janeiro", description: "GDG Rio de Janeiro", link: "https://plus.google.com/104464728601797437216", imageUrl: "GDG300.png", class: "small"}
 
 -
