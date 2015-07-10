@@ -90,7 +90,7 @@
     - {
         startTime: "09:00",
         endTime: "12:00",
-        sessionIds: [008, 333]
+        sessionIds: [008, 011]
     }
 
     - {
