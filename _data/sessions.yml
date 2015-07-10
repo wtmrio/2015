@@ -97,7 +97,7 @@
 -
   id: 010
   title: "Docker"
-  description: ""
+  description: "Nesse workshop vamos ver na prática a forma como criamos nosso ambiente de desenvolvimento atualmente, entendendo o processo atual. Após entendermos o processo iremos criar o mesmo ambiente com o Docker. Assim destacaremos os pontos fortes e pontos fracos de cada abordagem."
   speakers: [10]
 #language: pt-br
 

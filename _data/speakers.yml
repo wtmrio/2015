@@ -134,7 +134,7 @@
   surname: "Silva"
   company: "Holis"
   title: "Web Developer"
-  bio: "Desenvolvedor de software com experiência em soluções Web e integrações entre sistemas. Além de grande interesse em ferramentas de provisionamento de servidores como Chef, Puppet e Ansible."
+  bio: "Desenvolvedor de software com experiência em soluções Web e integrações entre sistemas. Além de grande interesse em ferramentas de DevOps como Chef, Puppet e Ansible e Docker."
   thumbnailUrl: hugoleonardo.jpg
   rockstar: false
   social:
