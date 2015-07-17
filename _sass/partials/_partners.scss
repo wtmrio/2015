@@ -41,6 +41,18 @@
                 }
             }
 
+            &.medium {
+                width: 50%;
+                min-width: 160px;
+                max-width: 160px;
+                @media (max-width: 767px) {
+                    min-width: 40%;
+                    width: 40%;
+                    min-width: 100px;
+                    max-width: 100px;
+                }
+            }
+
 
         }
     }
