@@ -8,6 +8,7 @@
   elements:
     - {name: "Mídia 3", description: "Mídia 3 Tecnologia e Criação", link: "http://www.midia3.com.br/home/", imageUrl: "midia3300.png"}
     - {name: "Globo.com", description: "Globo.com", link: "http://www.globo.com", imageUrl: "globocom.png"}
+    - {name: "Telcomanager", description: "Telcomanager", link: "https://www.telcomanager.com/", imageUrl: "telcomanager.png", class: "medium"}
 
 -
   group: "Padawan"
